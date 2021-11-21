@@ -373,6 +373,11 @@
             "name": "tsc executor",
             "id": "tsc",
             "file": "angular/api-js/executors/tsc"
+          },
+          {
+            "name": "swc executor",
+            "id": "swc",
+            "file": "angular/api-js/executors/swc"
           }
         ]
       },
@@ -1697,6 +1702,11 @@
             "name": "tsc executor",
             "id": "tsc",
             "file": "react/api-js/executors/tsc"
+          },
+          {
+            "name": "swc executor",
+            "id": "swc",
+            "file": "react/api-js/executors/swc"
           }
         ]
       },
@@ -2985,6 +2995,11 @@
             "name": "tsc executor",
             "id": "tsc",
             "file": "node/api-js/executors/tsc"
+          },
+          {
+            "name": "swc executor",
+            "id": "swc",
+            "file": "node/api-js/executors/swc"
           }
         ]
       },
