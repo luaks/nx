@@ -50,6 +50,12 @@
       "version": "13.3.0-beta.1",
       "description": "Rename the 'package' executor to 'rollup'",
       "factory": "./src/migrations/update-13-3-0/rename-package-to-rollup"
+    },
+    "update-babel-preset": {
+      "version": "13.4.0-beta.0",
+      "cli": "nx",
+      "description": "Migrate babel preset from nrwl/web/babel to nrwl/js/babel",
+      "factory": "./src/migrations/update-13-4-0/update-babel-preset"
     }
   },
   "packageJsonUpdates": {}
